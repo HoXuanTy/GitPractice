@@ -1,0 +1,10 @@
+# Ignore build, bin, and debug folders
+Buil/
+Bin/
+debug/
+
+# Ignore files with .sdf and .txt
+*.sdf
+*.txt
+# Don't ignore files in /data/text
+!/data/text/
